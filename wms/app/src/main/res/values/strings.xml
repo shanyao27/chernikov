@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">wms</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="warehouse_pro">Склад Pro</string>
+    <string name="mainstyle">sans-serif-black</string>
+    <string name="login_logo_description">login_logo_description</string>
+</resources>
